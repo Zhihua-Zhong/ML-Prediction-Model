@@ -2,6 +2,10 @@ Download link 1：
   https://mega.nz/folder/3kAADKzb#wRexrBo7YavlJ_VOsTu--g
   
 Download link 2:
+  .zip version:
+  http://goosebt.com:8080/externalLinksController/chain/ML%20prediction%20model.zip?ckey=sn7aCgESHFGyyMVl5j8xrIC1PxfnC4SNal0PWVhtKaqsG2ta93Wde8IdPDle%2B4FL
+
+  .exe version:
   http://goosebt.com:8080/externalLinksController/chain/ML%20prediction%20model.exe?ckey=EASZc%2F1bVZGgl9FzdYXBKaCAWHIbYrZ%2BBIiLckcPEQufmnF5S7uc3iHTPr4BbIn%2B
 
 Download link 3 (for users in China area):
