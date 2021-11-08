@@ -1,5 +1,6 @@
 This is the Github project for paper: 
-Zhong, Z., Yuan, X., Liu, S. et al. Machine learning prediction models for prognosis of critically ill patients after open-heart surgery. Sci Rep 11, 3384 (2021). https://doi.org/10.1038/s41598-021-83020-7
+Zhong, Z., Yuan, X., Liu, S. et al. Machine learning prediction models for prognosis of critically ill patients after open-heart surgery. Sci Rep 11, 3384 (2021). 
+https://doi.org/10.1038/s41598-021-83020-7
 
 
 About the win10 software mentioned in in paper : There are 3 items here:
