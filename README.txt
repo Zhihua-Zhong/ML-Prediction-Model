@@ -17,6 +17,12 @@ http://www.mlpredict.club:8111/pages/Home.html
 
 
 About the open source website build files:
-1) "java-web.zip" contains the source code of the website above
+1) "java-web.zip" is the source code of the website above.
 2) "java-web-1.0-SNAPSHOT.7z.001" & "java-web-1.0-SNAPSHOT.7z.002" are the volumn compression of file "java-web-1.0-SNAPSHOT.jar", 
 which is a JAR file of 1) project code file packaged by MAVEN and can be executed by java directly.
+3) "linux-package.7z.001" & "linux-package.7z.002" are the volumn compression of document file "linux-package".
+User can 
+A) copy the "linux-package" into path "/usr/src" in Linux service.
+B) make sure the firewall of service is close.
+C) execute a Linux command "java -jar java-web-1.0-SNAPSHOT.jar" to deploy the website.
+D) Access the website with a browser at this URL: (Linux service IP):8111/pages/Home.html
