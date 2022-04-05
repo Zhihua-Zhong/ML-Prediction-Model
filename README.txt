@@ -13,3 +13,7 @@ About the win10 software mentioned in in paper : There are 3 items here:
 Link to website version of prediction model: 
 http://www.mlpredict.club:8111/pages/Home.html
 (!!This website URL may be changed over time, so when it doesn't work, please check this Github page again for a new URL!!)
+
+
+
+About the website build files:
