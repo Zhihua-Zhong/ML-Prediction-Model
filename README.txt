@@ -9,11 +9,11 @@ About the win10 software mentioned in in paper : There are 3 items here:
 3: "Souce files of XGBoost.zip" contains the XGBoost model files (.model), which were outputted by python 3 machine learning package called sklearn(version:scikit_learn:0.20.3; joblib:0.16.0;sklearn:0.0)
 
 
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 !!!!!About the website version of prediction model!!!!!
 The service of website will not be maintained by us anymore (It is not online now), because of the cost of maintaining website.
 However, user still can find the source code of the website below, and deploy the website and serivce by themself!
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 
 About the open source website build files:
