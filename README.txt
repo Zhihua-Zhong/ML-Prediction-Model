@@ -35,3 +35,6 @@ B) make sure the firewall of service is close.
 C) execute a Linux command "java -jar java-web-1.0-SNAPSHOT.jar" to deploy the website.
 D) Access the website with a browser at this URL: (Linux service IP):8111/pages/Home.html
 ------------------------------------------------------------------------------------------------------------------
+
+If you meet any problem, please do not hesitate to contact me for further help through the following contact information 
+E-mail: zhong.z.af@m.titech.ac.jp
